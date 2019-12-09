@@ -3,7 +3,8 @@
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="-28ec1f42:16bdfaf7f81:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="4.11.0" />
   </component>
 </application>
