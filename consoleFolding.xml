@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="20:59:57.676 [main] DEBUG com.ctrip.framework.apollo.internals.RemoteConfigRepository - Schedule periodic refresh with interval: 5 MINUTES" />
+      </list>
+    </option>
+  </component>
+</application>
