@@ -4,11 +4,11 @@
     <property name="created">2019-07-16T18:38:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-10-16T17:02:19</property>
+    <property name="modified">2020-11-17T11:25:36</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="SourceCodePro+Powerline+Awesome Regular" />
@@ -987,8 +987,6 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -2632,8 +2630,8 @@
     <option name="Scala Type parameter" baseAttributes="" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="57b6c2" />
