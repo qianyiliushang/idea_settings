@@ -10,6 +10,5 @@
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
 </application>
