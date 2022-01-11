@@ -39,7 +39,9 @@
     <option name="usedLanguages">
       <set>
         <option value="java" />
+        <option value="kotlin" />
       </set>
     </option>
+    <option name="lastTabnineRecommendationDisplayDate" value="1641885835242" />
   </component>
 </application>
